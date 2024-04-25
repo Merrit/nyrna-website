@@ -104,7 +104,7 @@ const config: Config = {
         },
         {
           label: 'Documentation',
-          href: '/docs/intro',
+          href: '/docs/hotkey',
         },
         {
           label: 'GitHub',
