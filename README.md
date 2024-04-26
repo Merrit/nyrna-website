@@ -1,6 +1,8 @@
 # Nyrna Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This repo contains the website for [Nyrna](https://github.com/Merrit/nyrna), and
+is built using [Docusaurus](https://docusaurus.io/), a modern static website
+generator.
 
 ### Installation
 
