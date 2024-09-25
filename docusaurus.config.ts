@@ -120,8 +120,9 @@ const config: Config = {
       <a href="https://merritt.codes" target="_blank">Merritt Codes</a>.`,
     },
     prism: {
-      theme: prismThemes.github,
-      darkTheme: prismThemes.dracula,
+      theme: prismThemes.oneLight,
+      darkTheme: prismThemes.oneDark,
+      additionalLanguages: ['dart'],
     },
   } satisfies Preset.ThemeConfig,
 };
