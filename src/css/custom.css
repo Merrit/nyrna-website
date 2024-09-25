@@ -27,6 +27,12 @@
   --ifm-color-primary-lighter: #26beff;
   --ifm-color-primary-lightest: #4dcaff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-font-color-base: #a7b6c4;
+}
+
+html[data-theme='dark'] {
+  --ifm-background-color: #21262D;
+  --ifm-navbar-background-color: #21262D;
 }
 
 /* A container that centers its content. */
