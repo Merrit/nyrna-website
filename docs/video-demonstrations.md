@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Video Demonstrations'
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Video Demonstrations

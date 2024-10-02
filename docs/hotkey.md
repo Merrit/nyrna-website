@@ -1,6 +1,6 @@
 ---
 title: Hotkey
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 import AppSpecificHotkeysScreenshot from './app-specific-hotkeys.png';
