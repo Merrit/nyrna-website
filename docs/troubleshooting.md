@@ -35,15 +35,24 @@ Sometimes the anti-cheat software can be disabled, such as in
 ## Windows
 
 - Try running Nyrna as administrator
-- Some games grab exclusive control of the mouse and keyboard, which can cause
-  Nyrna's shortcuts to not work. This is a limitation of the game, not Nyrna.
+
+### Shortcuts don't work
+
+**Use the GUI method to toggle suspend/resume.**
+
+Some games grab exclusive control of the mouse and keyboard, which can cause 
+Nyrna's shortcuts to not work. This is an unfortunate limitation of the game,
+and not something that can be fixed in Nyrna.
+
+It might be worthwhile to contact the game's developers and let them know that
+their game grabbing exclusive control of the mouse and keyboard is causing
+issues.
 
 ### Specific applications
 
 #### Doom 2016
 
-Shortcut doesn't work because the game grabs exclusive keyboard control. Use the 
-GUI method to toggle suspend/resume.
+[Shortcuts don't work](#shortcuts-dont-work)
 
 #### Elden Ring
 
