@@ -40,15 +40,11 @@ Sometimes the anti-cheat software can be disabled, such as in
 
 ### Specific applications
 
-<details>
-<summary>Doom 2016</summary>
+#### Doom 2016
 
-Shortcut doesn't work because the game grabs exclusive keyboard control. Use the
+Shortcut doesn't work because the game grabs exclusive keyboard control. Use the 
 GUI method to toggle suspend/resume.
-</details>
 
-<details>
-<summary>Elden Ring</summary>
+#### Elden Ring
 
 [Disable Easy Anti-Cheat](https://www.pcgamingwiki.com/wiki/Elden_Ring#Easy_Anti-Cheat)
-</details>
