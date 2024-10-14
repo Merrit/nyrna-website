@@ -57,3 +57,7 @@ issues.
 #### Elden Ring
 
 [Disable Easy Anti-Cheat](https://www.pcgamingwiki.com/wiki/Elden_Ring#Easy_Anti-Cheat)
+
+#### Metro Exodus
+
+[Shortcuts don't work](#shortcuts-dont-work)
