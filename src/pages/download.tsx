@@ -38,12 +38,14 @@ function DownloadOptions() {
                 </Link>
                 <Link
                     className="button button--primary button--lg"
-                    href="https://github.com/Merrit/nyrna/releases/latest/download/Nyrna-Windows-Installer.exe">
+                    // href="https://github.com/Merrit/nyrna/releases/latest/download/Nyrna-Windows-Installer.exe">
+                    href="https://github.com/Merrit/nyrna/releases/download/v2.26.1/Nyrna-Windows-Installer.exe">
                     Installer
                 </Link>
                 <Link
                     className="button button--primary button--lg"
-                    href="https://github.com/Merrit/nyrna/releases/latest/download/Nyrna-Windows-Portable.zip">
+                    // href="https://github.com/Merrit/nyrna/releases/latest/download/Nyrna-Windows-Portable.zip">
+                    href="https://github.com/Merrit/nyrna/releases/download/v2.26.1/Nyrna-Windows-Portable.zip">
                     Portable
                 </Link>
             </div>
