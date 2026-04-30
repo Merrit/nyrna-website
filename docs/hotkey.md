@@ -17,6 +17,24 @@ game with just your controller.
 :::
 
 
+## Wayland
+
+:::info
+Wayland does not support global hotkeys, so the other methods described in this
+document will not work on Wayland. However, you can still use your desktop
+environment's built-in hotkey functionality to trigger the CLI method described
+below.
+:::
+
+### KDE Plasma
+
+1. Open System Settings and navigate to `Keyboard` > `Shortcuts`.
+2. Click the `Add New` button → `Command or Scipt`
+3. Set the `Command` field to `nyrna --toggle` (or `flatpak run
+   codes.merritt.Nyrna --toggle` if using the Flatpak version).
+4. Click `Save` and set the desired hotkey.
+
+
 ## Active Window
 
 ### GUI
