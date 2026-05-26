@@ -30,12 +30,12 @@ function DownloadOptions() {
             <div className={styles.column}>
                 <FontAwesomeIcon icon={faWindows} size="4x" />
                 <h2>Windows</h2>
-                {/* <Link
+                <Link
                     className="button button--primary button--lg"
                     href="https://apps.microsoft.com/detail/Nyrna/9p9s8kz41grj?launch=true
                     &mode=mini">
                     Microsoft Store
-                </Link> */}
+                </Link>
                 <Link
                     className="button button--primary button--lg"
                     // href="https://github.com/Merrit/nyrna/releases/latest/download/Nyrna-Windows-Installer.exe">
